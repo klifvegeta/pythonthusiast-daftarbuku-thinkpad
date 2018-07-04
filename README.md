@@ -1,4 +1,4 @@
-# pythonthusiast-daftarbuku-thinkpad
+# Daftar Buku - Sebuah Proyek Pythonthusiast
 test penggunaan git dengan thinkpad x220
 
 ## Menggunakan GIT dengan Command Line
