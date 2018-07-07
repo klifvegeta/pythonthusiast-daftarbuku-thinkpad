@@ -24,5 +24,5 @@ test penggunaan git dengan thinkpad x220
 - Bekerja tidak pada master, namun pada branch tersendiri
 - Mem-push branch baru tersebut (atau mem-push jika sudah ada commit)
 - Merubah kode pada branch tersebut
-- Meng-commit kode
+- Meng-commit kode, dan me-review perubahan pada file terlebih dahulu
 - Mem-push branch tersebut
