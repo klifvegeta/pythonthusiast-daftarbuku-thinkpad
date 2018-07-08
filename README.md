@@ -18,3 +18,7 @@ test penggunaan git dengan thinkpad x220
 - Mengirim file ke Github
 - Merubah di Github
 - Mem-pull dari lokal
+
+## Kesimpulan
+- Dengan Git dan Github, kode akan aman dari hard-disk rusak
+- Memiliki repository Github yang public, akan menjadikan repository tersebut sebagai portofolio
